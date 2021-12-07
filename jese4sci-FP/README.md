@@ -1,13 +1,13 @@
 # Final Project Track
 
-## [FP101: Choose study for replication](FP101.md)
+## [FP101: Choose study for replication](lessons/FP101.md)
 
-## [FP201: Acquire data](FP201.md)
+## [FP201: Acquire data](lessons/FP201.md)
 
-## [FP202: Modular analysis](FP202.md)
+## [FP202: Modular analysis](lessons/FP202.md)
 
-## [FP301: Document objects](FP301.md)
+## [FP301: Document objects](lessons/FP301.md)
 
-## [FP302: Automate testing](FP302.md)
+## [FP302: Automate testing](lessons/FP302.md)
 
-## [FP401: Manuscript](FP401.md)
+## [FP401: Manuscript](lessons/FP401.md)
