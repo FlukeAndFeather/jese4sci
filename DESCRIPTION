@@ -2,9 +2,16 @@ Package: jese4sci
 Title: Educational materials for Just Enough Software Engineering (for
     Scientists) AKA jese4sci
 Version: 0.0.0.9000
-Authors@R: 
-    person("Max", "Czapanskiy", , "maxczap@stanford.edu", role = c("aut", "cre"),
-           comment = c("ORCID-ID" = "0000-0002-6302-905X"))
+Authors@R: c(
+    person("Max", "Czapanskiy", email = "maxczapanskiy@gmail.com", 
+           role = c("aut", "cre"),
+           comment = c("ORCID-ID" = "0000-0002-6302-905X")),
+    person("Maurice", "Goodman", role = c("aut"),
+           comment = c("ORCID-ID" = "0000-0002-6874-2313")),
+    person("Cheyenne", "Payne", role = c("aut"),
+           comment = c("ORCID-ID" = "0000-0003-4651-3824")),
+    person("Elliott", "Hazen", role = c("aut"),
+           comment = c("ORCID-ID" = "0000-0002-0412-7178")))
 Description: The jese4sci short course teaches the basics of software
     engineering skills most relevant to scientists. The core skills are
     modularity, documentation, and validation and they're taught in a
@@ -12,7 +19,6 @@ Description: The jese4sci short course teaches the basics of software
     manuscript.
 License: CC BY 4.0
 Imports: 
-    learnr,
     palmerpenguins,
     tidyverse
 Encoding: UTF-8
